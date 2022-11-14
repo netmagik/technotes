@@ -51,4 +51,4 @@ export const {
     useLoginMutation,
     useSendLogoutMutation,
     useRefreshMutation,
-} = authApiSlice 
+} = authApiSlice
