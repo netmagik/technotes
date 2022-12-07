@@ -30,7 +30,7 @@ git clone https://github.com/netmagik/technotes
 
 Go to the project directory
 ```
-cd events
+cd client
 ```
 Install dependencies
 ```
